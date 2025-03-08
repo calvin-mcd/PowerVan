@@ -1,18 +1,18 @@
 # PowerVan
 
- minivan style pcb with LAE support, forced HHKB
+The PowerVan is a minivan style pcb with LAE support, forced HHKB, and a bottom row that is inspired by vintage typewriters.
 
-40% keyboard with base kit support using the rp2040 MCU & hotswap sockets. Based on shwilliam#6993 KLE. 
+Concept is by swear_wolf. The pcb is based on matthewdias' [m3n3van](https://github.com/matthewdias/m3n3van).
 
 ## Layout
 
-![](https://github.com/calvin-mcd/kira/blob/main/Images/KLE.png)
+![](https://github.com/calvin-mcd/PowerVan/blob/main/Images/KLE.png)
 
-[Link](http://www.keyboard-layout-editor.com/#/gists/036144ba7e6ef13814662f2037a89959)
+[Link](https://www.keyboard-layout-editor.com/#/gists/0d9d68823152da8421aaa57b7f098758)
 
 ## Case
 
-shwilliam#6993 has plans to design a case for this.
+swear_wolf is designing a dedicated case for this. The pcb itself supports standard minivan traymount holes as well as an additional daughterbord for more case compatibility. The HHKB is forced however.
   
 ## Todo
 
@@ -30,10 +30,6 @@ This project is released under the GPL v3 License. Please refer to the LICENCE f
 
 ## Credits
 
-swear_wolf
-
-matthewdias
-
-big thanks to shwilliam#6993 for letting me take his KLE to design a rp2040 board!
+big thanks to the swear_wolf for the idea and inspiration and to matthewdias for opensourcing their invaluable pcb work to the community.
 
 Any questions, contact Calvin\#0563 on Discord. 
