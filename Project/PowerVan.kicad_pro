@@ -900,7 +900,7 @@
       "plot": "Production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "PowerVan.step",
       "svg": "",
       "vrml": ""
     },
