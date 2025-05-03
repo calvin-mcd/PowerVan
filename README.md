@@ -14,15 +14,11 @@ Concept is by swear_wolf. The pcb is based on matthewdias' [m3n3van](https://git
 
 swear_wolf is designing a dedicated case for this. The pcb itself supports standard minivan traymount holes as well as an additional daughterbord for more case compatibility. The HHKB is forced however.
   
-## Todo
-
-- [ ] order & test pcb
-- [ ] design & test case
-- [ ] create firmware
-
 ## Disclaimer
 
-Please note that this project is a work in progress with no guarantees of a working outcome. No-one involved in this project is responsible for any usage issues that may arise. However, feel free to edit, modify and otherwise utilise these files.
+V1 has a revised JST position, to avoid interference with traymount cases. This version has not been tested yet, but changes are minor.
+
+This PCB has been fully tested and is confirmed to work. However, no-one involved in this project is responsible for any usage issues that may arise. Order at your own risk. Feel free to edit, modify and otherwise utilise these files.
 
 ## License
 
